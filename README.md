@@ -9,7 +9,7 @@ Official Role Managment to Have Some Fun! Change Colors Of Names And More!
    # # # # # # # # # # # # # # # # 
   
 -  -- Setup
--  1.) Invite RankMe ( LINK NOT AVAILABLE YET )
+-  1.) Invite RankMe ( discordapp.com/oauth2/authorize?client_id=305803565740589057&permissions=297921599&scope=bot )
 -  2.) Remove all colors on Roles!
 -  3.) As Owner (Your Role Needs To Be Owner) type *setup
 -  4.) Write Down In Notepad Installation Version ( For Updating ) !!!!!!!!

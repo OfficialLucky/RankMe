@@ -2,10 +2,10 @@
 Official Role Managment to Have Some Fun! Change Colors Of Names And More!
 
 -  # # # # # # # # # # # # # # # #  
-- #  #       RankMe b0.3            #
-- # #         Made By Lucky#7650     #
-- #  #     Made In :                #
-  # #     Discord.NET 0.9.6        #
+- #  #       RankMe b0.3            ##
+- # #         Made By Lucky#7650     ##
+- #  #     Made In :                ##
+  # #     Discord.NET 0.9.6        ##
    # # # # # # # # # # # # # # # # 
   
 -  -- Setup
@@ -18,7 +18,7 @@ Official Role Managment to Have Some Fun! Change Colors Of Names And More!
 -  -- Staff
 -  1.) Admin Role = RMAdmin
 -  2.) VIP Role = VIPColor
-  
+- 
 -  -- Updating
 -  1.) As A Admin With Role "RMAdmin" type *ver to display LIVE RankMe version.
 -  2.) If Different from installed version type *update

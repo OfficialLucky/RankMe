@@ -12,4 +12,9 @@ RankMe- b0.3 4/26/17 (Closed Beta) [MSG Me For Details Lucky#7650]
 - Permissions
 - Updater
 - New Menu's
+- Added RainBow Color (VIP)
+- New Console Code
+- New Console Style
+- Multipile Consoles To Prevent Flooding
+
 --------------------------- Server's With Bot - N/A

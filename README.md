@@ -2,10 +2,10 @@
 Official Role Managment to Have Some Fun! Change Colors Of Names And More!
 
 -  # # # # # # # # # # # # # # # #  
-- #  #       RankMe b0.3            ##
-- # #         Made By Lucky#7650     ##
-- #  #     Made In :                ##
-  # #     Discord.NET 0.9.6        ##
+- #  #       RankMe b0.3            # #
+- # #         Made By Lucky#7650     # #
+- #  #     Made In :                # #
+  # #     Discord.NET 0.9.6        # #
    # # # # # # # # # # # # # # # # 
   
 -  -- Setup

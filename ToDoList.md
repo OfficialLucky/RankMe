@@ -1,4 +1,4 @@
-ToDo List (RankMe) 0.3 Update ( Releasing On 4/26/17)
+ToDo List (RankMe) 0.3 Update ( Releasing On 4/26/17) (FINISHED!)
 
 ReWork Help Pages
 
